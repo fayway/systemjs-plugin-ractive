@@ -1,6 +1,6 @@
 {
   "name": "systemjs-plugin-ractive",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Ractive templates parser",
   "main": "index.js",
   "repository": "appgit@git.intramundi.com:tirich/systemjs-plugin-ractive.git",
