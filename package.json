@@ -1,0 +1,12 @@
+{
+  "name": "systemjs-plugin-ractive",
+  "version": "0.0.1",
+  "description": "Ractive templates parser",
+  "main": "index.js",
+  "repository": "appgit@git.intramundi.com:tirich/systemjs-plugin-ractive.git",
+  "author": "Fayçal Tirich <faycal.tirich-ext@amundi.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ractive": "0.7.3"
+  }
+}
